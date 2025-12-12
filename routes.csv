@@ -1,0 +1,12 @@
+route_name,route_type,seq,latitude,longitude,description
+Tram Line A,tram,1,45.523,-122.676,"Start of tram line"
+Tram Line A,tram,2,45.521,-122.681,""
+Tram Line A,tram,3,45.518,-122.683,""
+Tram Line A,tram,4,45.515,-122.682,""
+Bus Route 10,bus,1,45.528,-122.675,"Main bus corridor"
+Bus Route 10,bus,2,45.525,-122.672,""
+Bus Route 10,bus,3,45.521,-122.670,""
+Walking Loop,walk,1,45.522,-122.671,"River walk start"
+Walking Loop,walk,2,45.520,-122.670,""
+Walking Loop,walk,3,45.517,-122.669,""
+Walking Loop,walk,4,45.514,-122.668,""

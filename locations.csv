@@ -1,0 +1,9 @@
+name,category,latitude,longitude,description
+City Library,Library,45.518,-122.678,"Main public library with reading rooms"
+Riverside Park,Park,45.521,-122.685,"Green space along the river"
+History Museum,Museum,45.522,-122.680,"Local history exhibits and events"
+Community Center,Community,45.516,-122.676,"Workshops and community classes"
+Farmer's Market,Market,45.513,-122.671,"Weekend produce and food stalls"
+Neighborhood Clinic,Health,45.519,-122.672,"Walk-in health clinic"
+Art Gallery,Art,45.524,-122.682,"Rotating art exhibits"
+Tech Hub,Workspace,45.520,-122.674,"Co-working and startup offices"
